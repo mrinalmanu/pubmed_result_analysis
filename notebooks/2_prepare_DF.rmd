@@ -1,0 +1,45 @@
+---
+title: "part 2: preparing_DF"
+author: "Mrinal Vashisth"
+date: "3/9/2021"
+output: html_document
+---
+
+```{r}
+#load the dataframe
+
+FinalDF <- read.csv("~/Desktop/metagen_project/FinalDF")
+
+# we wont rely on citation matrices as these can be highly biased
+
+```
+
+```{r}
+
+subsetDF <- data.frame(FinalDF$doi, FinalDF$year, FinalDF$auth, FinalDF$number_of_authors, FinalDF$journal, FinalDF$title)
+
+head(subsetDF)
+
+#write.csv(subsetDF, file = "subsetDF", row.names = FALSE)
+
+```
+
+
+```{r}
+
+# subsetDF <- read_csv("Desktop/metagen_project/subsetDF")
+
+# Two steps
+
+# first: seperate for ; character
+# second: explode for | character
+library(splitstackshape)
+
+new <- cSplit(subsetDF, "FinalDF.auth", ";", "long")
+
+ready_DF <- cSplit(new, "FinalDF.auth", "|", "wide")
+
+
+#write.csv(ready_DF, file = "readyDF", row.names = FALSE)
+
+```

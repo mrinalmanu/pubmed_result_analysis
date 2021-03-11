@@ -1,0 +1,589 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">25772936</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>05</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>08</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1537-6605</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>96</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Apr</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of human genetics</Title>
+                <ISOAbbreviation>Am J Hum Genet</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mutations in the endothelin receptor type A cause mandibulofacial dysostosis with alopecia.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>519-31</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ajhg.2015.01.015</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0002-9297(15)00023-3</ELocationID>
+            <Abstract>
+                <AbstractText>The endothelin receptor type A (EDNRA) signaling pathway is essential for the establishment of mandibular identity during development of the first pharyngeal arch. We report four unrelated individuals with the syndrome mandibulofacial dysostosis with alopecia (MFDA) who have de novo missense variants in EDNRA. Three of the four individuals have the same substitution, p.Tyr129Phe. Tyr129 is known to determine the selective affinity of EDNRA for endothelin 1 (EDN1), its major physiological ligand, and the p.Tyr129Phe variant increases the affinity of the receptor for EDN3, its non-preferred ligand, by two orders of magnitude. The fourth individual has a somatic mosaic substitution, p.Glu303Lys, and was previously described as having Johnson-McMillin syndrome. The zygomatic arch of individuals with MFDA resembles that of mice in which EDNRA is ectopically activated in the maxillary prominence, resulting in a maxillary to mandibular transformation, suggesting that the p.Tyr129Phe variant causes an EDNRA gain of function in the developing upper jaw. Our in..vitro and in..vivo assays suggested complex, context-dependent effects of the EDNRA variants on downstream signaling. Our findings highlight the importance of finely tuned regulation of EDNRA signaling during human craniofacial development and suggest that modification of endothelin receptor-ligand specificity was a key step in the evolution of vertebrate jaws. </AbstractText>
+                <CopyrightInformation>Copyright .. 2015 The American Society of Human Genetics. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gordon</LastName>
+                    <ForeName>Christopher T</ForeName>
+                    <Initials>CT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM UMR 1163, Institut Imagine, Paris 75015, France; Universit.. Paris Descartes-Sorbonne Paris Cit.., Institut Imagine, Paris 75015, France. Electronic address: chris.gordon@inserm.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weaver</LastName>
+                    <ForeName>K Nicole</ForeName>
+                    <Initials>KN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zechi-Ceide</LastName>
+                    <ForeName>Roseli Maria</ForeName>
+                    <Initials>RM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Genetics, Hospital for Rehabilitation of Craniofacial Anomalies, University of S..o Paulo, Bauru 17012-900, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Madsen</LastName>
+                    <ForeName>Erik C</ForeName>
+                    <Initials>EC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Human Disease Modeling, Duke University Medical Center, Durham, NC 27701, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tavares</LastName>
+                    <ForeName>Andre L P</ForeName>
+                    <Initials>AL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Craniofacial Biology, University of Colorado Denver Anschutz Medical Campus, Aurora, CO 80045, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oufadem</LastName>
+                    <ForeName>Myriam</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM UMR 1163, Institut Imagine, Paris 75015, France; Universit.. Paris Descartes-Sorbonne Paris Cit.., Institut Imagine, Paris 75015, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kurihara</LastName>
+                    <ForeName>Yukiko</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiological Chemistry and Metabolism, Graduate School of Medicine, The University of Tokyo, Tokyo 113-0033, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Adameyko</LastName>
+                    <ForeName>Igor</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Unit of Molecular Neurobiology, Department of Medical Biochemistry and Biophysics, Karolinska Institute, Stockholm 17177, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Picard</LastName>
+                    <ForeName>Arnaud</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Service de Chirurgie Maxillo-Faciale et Plastique, Centre de R..f..rence des Malformations de la Face et de la Cavit.. Buccale, H..pital Necker-Enfants Malades et Universit.. Pierre et Marie Curie, Paris 75015, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Breton</LastName>
+                    <ForeName>Sylvain</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Service d'Imagerie P..diatrique, H..pital Necker-Enfants Malades, AP-HP et Laboratoire d'Anatomie, Universit.. Paris Descartes, Paris 75015, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pierrot</LastName>
+                    <ForeName>S..bastien</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Service d'ORL Pediatrique, H..pital Necker-Enfants Malades, AP-HP et Universit.. Paris Descartes, Paris 75015, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Biosse-Duplan</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM UMR 1163, Institut Imagine, Paris 75015, France; Universit.. Paris Descartes-Sorbonne Paris Cit.., Institut Imagine, Paris 75015, France; Service d'Odontologie, H..pital Bretonneau, HUPNVS, AP-HP, Paris 75018, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Voisin</LastName>
+                    <ForeName>Norine</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM UMR 1163, Institut Imagine, Paris 75015, France; Universit.. Paris Descartes-Sorbonne Paris Cit.., Institut Imagine, Paris 75015, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Masson</LastName>
+                    <ForeName>C..cile</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM UMR 1163, Institut Imagine, Paris 75015, France; Universit.. Paris Descartes-Sorbonne Paris Cit.., Institut Imagine, Paris 75015, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bole-Feysot</LastName>
+                    <ForeName>Christine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM UMR 1163, Institut Imagine, Paris 75015, France; Universit.. Paris Descartes-Sorbonne Paris Cit.., Institut Imagine, Paris 75015, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nitschk..</LastName>
+                    <ForeName>Patrick</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM UMR 1163, Institut Imagine, Paris 75015, France; Universit.. Paris Descartes-Sorbonne Paris Cit.., Institut Imagine, Paris 75015, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Delrue</LastName>
+                    <ForeName>Marie-Ange</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Unit.. de g..n..tique m..dicale, CHU Bordeaux, Bordeaux 33076, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lacombe</LastName>
+                    <ForeName>Didier</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Unit.. de g..n..tique m..dicale, CHU Bordeaux, Bordeaux 33076, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guion-Almeida</LastName>
+                    <ForeName>Maria Leine</ForeName>
+                    <Initials>ML</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Genetics, Hospital for Rehabilitation of Craniofacial Anomalies, University of S..o Paulo, Bauru 17012-900, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moura</LastName>
+                    <ForeName>Priscila Padilha</ForeName>
+                    <Initials>PP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Genetics, Hospital for Rehabilitation of Craniofacial Anomalies, University of S..o Paulo, Bauru 17012-900, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garib</LastName>
+                    <ForeName>Daniela Gamba</ForeName>
+                    <Initials>DG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Orthodontics, Bauru Dental School, University of S..o Paulo, Bauru 17012-901, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Munnich</LastName>
+                    <ForeName>Arnold</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM UMR 1163, Institut Imagine, Paris 75015, France; Universit.. Paris Descartes-Sorbonne Paris Cit.., Institut Imagine, Paris 75015, France; Service de G..n..tique, H..pital Necker-Enfants Malades, AP-HP, Paris 75015, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ernfors</LastName>
+                    <ForeName>Patrik</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Unit of Molecular Neurobiology, Department of Medical Biochemistry and Biophysics, Karolinska Institute, Stockholm 17177, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hufnagel</LastName>
+                    <ForeName>Robert B</ForeName>
+                    <Initials>RB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hopkin</LastName>
+                    <ForeName>Robert J</ForeName>
+                    <Initials>RJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kurihara</LastName>
+                    <ForeName>Hiroki</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiological Chemistry and Metabolism, Graduate School of Medicine, The University of Tokyo, Tokyo 113-0033, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saal</LastName>
+                    <ForeName>Howard M</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Human Genetics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weaver</LastName>
+                    <ForeName>David D</ForeName>
+                    <Initials>DD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical and Molecular Genetics, Indiana University School of Medicine, Indianapolis, IN 46202, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Katsanis</LastName>
+                    <ForeName>Nicholas</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Human Disease Modeling, Duke University Medical Center, Durham, NC 27701, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lyonnet</LastName>
+                    <ForeName>Stanislas</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM UMR 1163, Institut Imagine, Paris 75015, France; Universit.. Paris Descartes-Sorbonne Paris Cit.., Institut Imagine, Paris 75015, France; Service de G..n..tique, H..pital Necker-Enfants Malades, AP-HP, Paris 75015, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Golzio</LastName>
+                    <ForeName>Christelle</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Human Disease Modeling, Duke University Medical Center, Durham, NC 27701, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clouthier</LastName>
+                    <ForeName>David E</ForeName>
+                    <Initials>DE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Craniofacial Biology, University of Colorado Denver Anschutz Medical Campus, Aurora, CO 80045, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amiel</LastName>
+                    <ForeName>Jeanne</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM UMR 1163, Institut Imagine, Paris 75015, France; Universit.. Paris Descartes-Sorbonne Paris Cit.., Institut Imagine, Paris 75015, France; Service de G..n..tique, H..pital Necker-Enfants Malades, AP-HP, Paris 75015, France. Electronic address: jeanne.amiel@inserm.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>5T32HD060558-04</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>DE014181</GrantID>
+                    <Acronym>DE</Acronym>
+                    <Agency>NIDCR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>DE018899</GrantID>
+                    <Acronym>DE</Acronym>
+                    <Agency>NIDCR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>DE023050</GrantID>
+                    <Acronym>DE</Acronym>
+                    <Agency>NIDCR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 DE014181</GrantID>
+                    <Acronym>DE</Acronym>
+                    <Agency>NIDCR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 DE023050</GrantID>
+                    <Acronym>DE</Acronym>
+                    <Agency>NIDCR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 DE018899</GrantID>
+                    <Acronym>DE</Acronym>
+                    <Agency>NIDCR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32 HD060558</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D002363">Case Reports</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>03</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Hum Genet</MedlineTA>
+            <NlmUniqueID>0370475</NlmUniqueID>
+            <ISSNLinking>0002-9297</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019332">Endothelin-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D060172">Morpholinos</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D044022">Receptor, Endothelin A</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000505" MajorTopicYN="N">Alopecia</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019332" MajorTopicYN="N">Endothelin-1</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059472" MajorTopicYN="N">Exome</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017403" MajorTopicYN="N">In Situ Hybridization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008342" MajorTopicYN="N">Mandibulofacial Dysostosis</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D060172" MajorTopicYN="N">Morpholinos</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020125" MajorTopicYN="N">Mutation, Missense</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010375" MajorTopicYN="N">Pedigree</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012333" MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D060888" MajorTopicYN="N">Real-Time Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D044022" MajorTopicYN="N">Receptor, Endothelin A</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013577" MajorTopicYN="N">Syndrome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014057" MajorTopicYN="N">Tomography, X-Ray Computed</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015027" MajorTopicYN="N">Zebrafish</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015050" MajorTopicYN="N">Zygoma</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>01</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25772936</ArticleId>
+            <ArticleId IdType="pii">S0002-9297(15)00023-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ajhg.2015.01.015</ArticleId>
+            <ArticleId IdType="pmc">PMC4385188</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Development. 1998 Mar;125(5):813-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9449664</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genomics. 1996 Jan 15;31(2):177-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8824799</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mech Dev. 1998 May;73(2):217-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9622636</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1999 Jun 1;162(11):6641-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10352281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Obstet Gynecol. 2004 Nov;191(5):1728-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15547553</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Cell Biol. 2004;76:415-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15602885</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Birth Defects Res A Clin Mol Teratol. 2005 Sep;73(9):638-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16116593</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 2007 Jan;134(2):335-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17166927</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Zool B Mol Dev Evol. 2007 Sep 15;308(5):609-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17358015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 2008 Feb;135(4):755-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18199583</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 2008 Sep;135(18):3149-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18684741</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Dec 2;105(48):18806-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19017795</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2009 Jul 15;25(14):1754-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19451168</ArticleId>
+                </ArticleIdList>
