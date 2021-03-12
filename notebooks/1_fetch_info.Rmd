@@ -13,16 +13,17 @@ library('easyPubMed')
 
 ```{r}
 
-# we need to search papers for lignocellulose, cellulose and plant biomass degradation in genera
+## Uncomment this cell to run contents
 
-my_query <- '(((modeling) AND ((consciousness) OR ((consciousness) AND (digital twin)) OR (identity) OR (personality) OR (virtual personality)) AND ("2011/03/12"[PDat] : "2021/03/08"[PDat])))'
-# half a million papers
-out.B <- batch_pubmed_download(pubmed_query_string = my_query, 
-                               dest_file_prefix = "RES_", 
-                               encoding = "ASCII")
-
-head(out.B)
+# my_query <- '((digital twin) AND ("2011/03/12"[PDat] : "2021/03/08"[PDat])))'
+# 
+# out.B <- batch_pubmed_download(pubmed_query_string = my_query, 
+#                                dest_file_prefix = "DIG_T", 
+#                                encoding = "ASCII")
+# 
+# head(out.B)
 ```
+
 ```{r}
 # SOURCE: https://github.com/christopherBelter/pubmedXML/blob/master/pubmedXML.R
 library(jsonlite)
@@ -166,23 +167,9 @@ ls
 ```
 ```{r}
 # mass extract XML
-theData1 <- extract_xml('RES_001.txt')
-theData2 <- extract_xml('RES_002.txt')
-theData3 <- extract_xml('RES_003.txt')
-theData4 <- extract_xml('RES_004.txt')
-theData5 <- extract_xml('RES_005.txt')
-theData6 <- extract_xml('RES_006.txt')
-theData7 <- extract_xml('RES_007.txt')
-theData8 <- extract_xml('RES_008.txt')
-theData9 <- extract_xml('RES_009.txt')
-#theData10 <- extract_xml('RES_010.txt') #Download error
-theData11 <- extract_xml('RES_011.txt')
-theData12 <- extract_xml('RES_012.txt')
-theData13 <- extract_xml('RES_013.txt')
-theData14 <- extract_xml('RES_014.txt')
-theData15 <- extract_xml('RES_015.txt')
+theData1 <- extract_xml('/home/mrinalmanu/Desktop/analyse_pubmed_search_results/FINAL/topics/virtual_twin/DIG_T01.txt')
 
-theData <- do.call(rbind, list(theData1, theData2, theData3, theData3, theData4, theData5, theData6, theData7, theData8, theData9, theData11, theData12, theData13, theData14, theData15))
+theData <- do.call(rbind, list(theData1))
 
 finalDF <- data.frame(theData$pmid, theData$doi, theData$year, theData$auth, theData$number_of_authors, theData$journal, theData$articletitle, theData$abstract)
 
@@ -190,7 +177,7 @@ finalDF <- data.frame(theData$pmid, theData$doi, theData$year, theData$auth, the
 
 names(finalDF) <- c("pmid", "doi", "year", "author_info", "number_of_authors", "journal", "title", "abstract")
 
-# write.csv(finalDF, file = "FinalDF", row.names = FALSE)
+write.csv(finalDF, file = "DIG_T_DF", row.names = FALSE)
 
 ```
 

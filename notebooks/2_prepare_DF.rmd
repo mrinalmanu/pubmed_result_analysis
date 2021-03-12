@@ -8,24 +8,27 @@ output: html_document
 ```{r}
 #load the dataframe
 
-FinalDF <- read.csv("~/Desktop/metagen_project/FinalDF")
+# /home/mrinalmanu/Desktop/analyse_pubmed_search_results/FINAL/topics/neuroscience_personality/NEU_PER_DF
+# /home/mrinalmanu/Desktop/analyse_pubmed_search_results/FINAL/topics/neuroscience_identity/NEU_ID_DF
+# /home/mrinalmanu/Desktop/analyse_pubmed_search_results/FINAL/topics/modelling_and_consciousness/MOD_CON_DF
+# /home/mrinalmanu/Desktop/analyse_pubmed_search_results/FINAL/topics/digital_twin/DIG_T_DF
 
-# we wont rely on citation matrices as these can be highly biased
+name_i <- "/home/mrinalmanu/Desktop/analyse_pubmed_search_results/FINAL/topics/modelling_and_consciousness/MOD_CON_DF"
+name_f <- "/home/mrinalmanu/Desktop/analyse_pubmed_search_results/FINAL/topics/modelling_and_consciousness/ready_MOD_CON_DF"
+
 
 ```
 
 ```{r}
 
-subsetDF <- data.frame(FinalDF$doi, FinalDF$year, FinalDF$auth, FinalDF$number_of_authors, FinalDF$journal, FinalDF$title)
+FinalDF <- read.csv(name_i)
+
+subsetDF <- data.frame(FinalDF$doi, FinalDF$pmid, FinalDF$year, FinalDF$auth, FinalDF$number_of_authors, FinalDF$journal, FinalDF$title, FinalDF$abstract)
 
 head(subsetDF)
 
 #write.csv(subsetDF, file = "subsetDF", row.names = FALSE)
 
-```
-
-
-```{r}
 
 # subsetDF <- read_csv("Desktop/metagen_project/subsetDF")
 
@@ -39,7 +42,9 @@ new <- cSplit(subsetDF, "FinalDF.auth", ";", "long")
 
 ready_DF <- cSplit(new, "FinalDF.auth", "|", "wide")
 
-
-#write.csv(ready_DF, file = "readyDF", row.names = FALSE)
+write.csv(ready_DF, file = name_f, row.names = FALSE)
 
 ```
+
+
+=
