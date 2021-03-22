@@ -1,3 +1,7 @@
+Blog post for this repository:
+
+https://obviating.wordpress.com/2021/03/22/pubmed-analyses-1/
+
 # pubmed_results_analysis
 Analyses of pubmed search results in R and Python.
 
